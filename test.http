@@ -1,0 +1,13 @@
+GET https://pokeapi.co/api/v2/pokemon?offset=7&limit=3
+
+GET https://pokeapi.co/api/v2/ability?offset=7&limit=3
+
+GET https://pokeapi.co/api/v2/pokemon-habitat?offset=0&limit=5
+
+GET https://pokeapi.co/api/v2/pokemon-habitat/forest
+
+GET https://pokeapi.co/api/v2/pokemon-color/yellow
+
+GET https://pokeapi.co/api/v2/ability/8/
+
+GET https://pokeapi.co/api/v2/pokemon/amarillo
